@@ -1,0 +1,32 @@
+{
+  "name": "studentregistration",
+  "version": "1.0.0",
+  "description": "Student registration Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "html",
+    "css",
+    "mysql"
+  ],
+  "author": "Mr Amit",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.4.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}

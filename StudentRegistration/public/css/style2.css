@@ -1,0 +1,14 @@
+.container{
+    width: 55%;
+   background: #ebf6fc;
+}
+
+.page{
+    display: none;
+}
+
+.page.active {
+    display: block;
+}
+
+

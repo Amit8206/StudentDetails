@@ -1,0 +1,36 @@
+.container {
+    width: 52%;
+    height: 120vh;
+    margin: auto;
+    /* border: 3px solid black; */
+    background: #ebf6fc;
+}
+
+#mdiv {
+    padding: 20px;
+}
+
+
+#dob {
+    width: 22vw
+}
+
+#dob1 {
+    width: 46vw
+}
+
+input {
+    padding: 13px;
+    margin-top: 10px;
+}
+
+#select {
+    width: 24vw;
+    height: 6vh;
+}
+
+button {
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 50%;
+}
